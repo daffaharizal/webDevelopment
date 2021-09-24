@@ -1,0 +1,12 @@
+ Langkah langkah upload file ke gitHub yaitu : 
+
+	1. Yang pasti, "ala bisa, karna biasa"
+	2. Sesusah git add "..."
+	3. Lalu, git commit -m ".."
+	4. git branch ..
+	5. dengan alamat SSH.git 
+	6. git push -u origin master
+
+	intinya liat kemajuan teknologi dan fitur di gitHub, karena disitu tersimpan info terbaru.
+
+

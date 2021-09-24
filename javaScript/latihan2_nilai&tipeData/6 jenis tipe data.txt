@@ -1,0 +1,8 @@
+ada 6 tipedata pada javascript :
+
+- Number
+- String
+- Boolean
+- Object
+- Function
+- Undefined
