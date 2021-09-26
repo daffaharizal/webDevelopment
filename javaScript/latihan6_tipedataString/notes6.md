@@ -9,3 +9,16 @@ MAKA KITA BUTUH **ESCAPE CHARACTER**
 ESCAPE = Menambahkan backslash / pada kutip yang sama
 
 contoh : 'daffa harizal f\'tri'
+
+\n untuk melangkah baris
+\t untuk tab
+
+mengecek string itu sama atau tidak :
+"Sandhika Galih" == "sandhika galih"
+
+**contoh bab lain juga :**
+var nama = "Daffa Harizal"
+..
+..
+nama.length
+13 (menghitung karakter spasi)
