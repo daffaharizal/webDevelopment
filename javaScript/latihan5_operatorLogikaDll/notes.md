@@ -18,7 +18,7 @@ typeof (true) = boolean
 
 **OPERATOR KONDISIONAL**
 Sintaks : (kondisi) ? benar : salah
-contoh : (10 % 2 === 0) ? "true" : "flase"
+contoh : (10 % 2 === 0) ? "true" : "false"
 
 
 
