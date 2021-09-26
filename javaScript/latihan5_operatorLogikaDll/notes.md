@@ -16,4 +16,10 @@ contoh : typeof ("10") = string
 typeof (10) = number
 typeof (true) = boolean
 
+**OPERATOR KONDISIONAL**
+Sintaks : (kondisi) ? benar : salah
+contoh : (10 % 2 === 0) ? "true" : "flase"
+
+
+
 
