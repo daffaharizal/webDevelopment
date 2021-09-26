@@ -2,3 +2,10 @@
 
 tipe data STRING dalam javascript digunakan untuk mempresentasikan data tekstual (PLAIN TEXT)
 untuk menuliskan string : bisa kutip dua "" / kutip ''
+
+**JIKA MENEMUKAN MASALAH PADA PENULISAN STRING SEPERTI BANYAKNYA KUTIP**
+
+MAKA KITA BUTUH **ESCAPE CHARACTER**
+ESCAPE = Menambahkan backslash / pada kutip yang sama
+
+contoh : 'daffa harizal f\'tri'
