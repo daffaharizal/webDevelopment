@@ -6,3 +6,4 @@ Ada 3 popup box yang dapat digunkana :
 3. confirm
 
 **ALERT BOX**
+cth : alert('Hello World');
