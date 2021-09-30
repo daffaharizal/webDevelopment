@@ -7,3 +7,12 @@ Ada 3 popup box yang dapat digunkana :
 
 **ALERT BOX**
 cth : alert('Hello World');
+
+Bisa juga membuat banyak alert dalam satu halaman.
+alert('');
+alert('');
+alert('');
+alert('');
+
+**PROMPT**
+cth : prompt('Masukkan Nama');
