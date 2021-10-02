@@ -1,4 +1,2 @@
-alert('Hello');
-alert('Nama');
-alert('Saya');
-alert('adalah');
+var contoh = prompt('Masukkan Nama');
+alert(nama);
