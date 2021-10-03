@@ -20,5 +20,15 @@ cth : prompt('Masukkan Nama');
 
 akan ada TEXTBOX nya untuk memasukkan sebuah INPUTAN.
 
+**CONFIRM**
+
+untuk memunculkan sesuatu dengan pilihan.
+cth : confirm('Apakah kamu yakin??');
+
+biasanya confirm ini digunakan pada delete.
+
+cth :
+var tes = confirm('Apakah kamu yakin');
+alert(tes);
 
 
