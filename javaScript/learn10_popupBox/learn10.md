@@ -15,4 +15,10 @@ alert('');
 alert('');
 
 **PROMPT**
+untuk memunculkan windows kecil juga
 cth : prompt('Masukkan Nama');
+
+akan ada TEXTBOX nya untuk memasukkan sebuah INPUTAN.
+
+
+
