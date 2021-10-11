@@ -16,4 +16,10 @@ background-image: linear-gradient(45deg, warna1, warna2);
 || background-image: linear-gradient(to left, warna1, warna2);
 || background-image: linear-gradient(to bottom left, warna1, warna2);
 
+**BISA JUGA MENERAPKAN COLOR STOP**
+contoh : background-image: linear-gradient(to left, green 63%, orange 80%);
+
+**UNTUK PEMBAHASAN RADIAL GRADIENT SEPERTINYA KURANG PENTING**
+Jadi saya lewatkan saja materinya
+
 
